@@ -14,6 +14,9 @@
  What is the result?
  */
 // Type the code below this line
+var yourName : String?
+print(yourName)
+
 
 /*:
  

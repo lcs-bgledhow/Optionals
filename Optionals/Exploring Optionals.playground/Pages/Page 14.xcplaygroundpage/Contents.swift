@@ -12,6 +12,14 @@
  */
 // type your code below this line
 
+var x : Int? = 3
+var y : Int?
+
+if let notNilx = x, let notNily = y {
+    notNilx * notNily
+} else {
+    print("Cannot compute, x, y, or both are nil.")
+}
 
 
 
